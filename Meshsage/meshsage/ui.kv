@@ -1,0 +1,103 @@
+<WelcomeScreen>:
+    name: "welcome"
+    AnchorLayout:
+        anchor_y: 'center'
+        anchor_x: 'center'
+        MDBoxLayout:
+            orientation: 'vertical'
+            spacing: 20
+            padding: [40, 40, 40, 40] if self.width > 400 else [5, 40, 5, 40]
+            size_hint_y: None
+            height: self.minimum_height
+
+            MDRaisedButton:
+                text: "Start Server"
+                size_hint_x: 1
+                pos_hint: {'center_x': 0.5}
+                on_release: app.start_server()
+
+            MDBoxLayout:
+                orientation: 'horizontal'
+                size_hint_y: None
+                height: "40dp"
+                spacing: 10
+
+                MDTextField:
+                    id: address_input
+                    hint_text: "Enter IP:Port"
+                    multiline: False
+
+                MDRaisedButton:
+                    text: "Connect to Peer"
+                    on_release: app.connect_to_peer(address_input.text)
+
+<ChatScreen>:
+    name: "chat"
+
+    MDNavigationLayout:
+        id: nav_layout
+
+        ScreenManager:
+            Screen:
+                name: "main_chat"
+
+                BoxLayout:
+                    orientation: "vertical"
+
+                    MDTopAppBar:
+                        title: "Meshsage"
+                        elevation: 4
+                        left_action_items: [['menu', lambda x: nav_drawer.set_state("toggle")]]
+
+                    BoxLayout:
+                        orientation: "vertical"
+                        padding: 10
+                        spacing: 10
+
+                        ScrollView:
+                            MDBoxLayout:
+                                id: chat_log_container
+                                orientation: 'vertical'
+                                size_hint_y: None
+                                height: self.minimum_height
+
+                        MDLabel:
+                            id: target_label
+                            text: "Chatting with: Public Chat"
+                            size_hint_y: None
+                            height: "30dp"
+
+                        BoxLayout:
+                            size_hint_y: None
+                            height: "40dp"
+                            spacing: 10
+
+                            MDTextField:
+                                id: msg_input
+                                hint_text: "Type your message"
+                                multiline: False
+
+                            MDRaisedButton:
+                                text: "Send"
+                                on_release: app.send_message()
+
+        MDNavigationDrawer:
+            id: nav_drawer
+            BoxLayout:
+                orientation: "vertical"
+                padding: "8dp"
+                spacing: "8dp"
+
+                MDLabel:
+                    text: "Peers"
+                    font_style: "H6"
+                    size_hint_y: None
+                    height: self.texture_size[1]
+
+                ScrollView:
+                    MDList:
+                        id: peer_list
+
+ScreenManager:
+    WelcomeScreen:
+    ChatScreen:

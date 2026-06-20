@@ -1,0 +1,4 @@
+/home/shubham/Documents/new/FileXplore/build/CMakeFiles/FileXplore.dir
+/home/shubham/Documents/new/FileXplore/build/CMakeFiles/edit_cache.dir
+/home/shubham/Documents/new/FileXplore/build/CMakeFiles/rebuild_cache.dir
+/home/shubham/Documents/new/FileXplore/build/CMakeFiles/FileXplore_autogen.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/FileXplore.dir/FileXplore_autogen/mocs_compilation.cpp.o CMakeFiles/FileXplore.dir/main.cpp.o CMakeFiles/FileXplore.dir/mainwindow.cpp.o -o FileXplore  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 

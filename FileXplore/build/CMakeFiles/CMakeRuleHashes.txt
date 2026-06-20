@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+5df061e7d55ce8feddbade01e5ac357a ../FileXplore_en_IN.ts
+afa0c5125407b1cc20efcf4f85ec710f CMakeFiles/FileXplore_autogen
