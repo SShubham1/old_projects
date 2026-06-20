@@ -1,0 +1,1383 @@
+diff --git a/smup_apk/build/apk/AndroidManifest.xml b/smup_apk/build/apk/AndroidManifest.xml
+new file mode 100644
+index 0000000..4f50e3c
+Binary files /dev/null and b/smup_apk/build/apk/AndroidManifest.xml differ
+diff --git a/smup_apk/build/apk/classes.dex b/smup_apk/build/apk/classes.dex
+new file mode 100644
+index 0000000..daa856f
+Binary files /dev/null and b/smup_apk/build/apk/classes.dex differ
+diff --git a/smup_apk/build/apk/res/color/com_facebook_button_text_color.xml b/smup_apk/build/apk/res/color/com_facebook_button_text_color.xml
+new file mode 100644
+index 0000000..924a88b
+Binary files /dev/null and b/smup_apk/build/apk/res/color/com_facebook_button_text_color.xml differ
+diff --git a/smup_apk/build/apk/res/color/com_facebook_send_button_text_color.xml b/smup_apk/build/apk/res/color/com_facebook_send_button_text_color.xml
+new file mode 100644
+index 0000000..2f600fc
+Binary files /dev/null and b/smup_apk/build/apk/res/color/com_facebook_send_button_text_color.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/background_dialog_title2.png b/smup_apk/build/apk/res/drawable/background_dialog_title2.png
+new file mode 100644
+index 0000000..3ddb66d
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/background_dialog_title2.png differ
+diff --git a/smup_apk/build/apk/res/drawable/background_sms.xml b/smup_apk/build/apk/res/drawable/background_sms.xml
+new file mode 100644
+index 0000000..841de65
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/background_sms.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/background_update.jpg b/smup_apk/build/apk/res/drawable/background_update.jpg
+new file mode 100644
+index 0000000..649c5b9
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/background_update.jpg differ
+diff --git a/smup_apk/build/apk/res/drawable/backup_background.xml b/smup_apk/build/apk/res/drawable/backup_background.xml
+new file mode 100644
+index 0000000..adaa8c6
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/backup_background.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/box_checked.png b/smup_apk/build/apk/res/drawable/box_checked.png
+new file mode 100644
+index 0000000..5316ad5
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/box_checked.png differ
+diff --git a/smup_apk/build/apk/res/drawable/box_unchecked.png b/smup_apk/build/apk/res/drawable/box_unchecked.png
+new file mode 100644
+index 0000000..03cda27
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/box_unchecked.png differ
+diff --git a/smup_apk/build/apk/res/drawable/button_ads_background.xml b/smup_apk/build/apk/res/drawable/button_ads_background.xml
+new file mode 100644
+index 0000000..a0472a2
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/button_ads_background.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/button_ads_focus.9.png b/smup_apk/build/apk/res/drawable/button_ads_focus.9.png
+new file mode 100644
+index 0000000..ec9bb4b
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/button_ads_focus.9.png differ
+diff --git a/smup_apk/build/apk/res/drawable/button_ads_normal.9.png b/smup_apk/build/apk/res/drawable/button_ads_normal.9.png
+new file mode 100644
+index 0000000..de44982
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/button_ads_normal.9.png differ
+diff --git a/smup_apk/build/apk/res/drawable/button_ads_selected.9.png b/smup_apk/build/apk/res/drawable/button_ads_selected.9.png
+new file mode 100644
+index 0000000..1a70d66
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/button_ads_selected.9.png differ
+diff --git a/smup_apk/build/apk/res/drawable/button_background.xml b/smup_apk/build/apk/res/drawable/button_background.xml
+new file mode 100644
+index 0000000..5d3ddee
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/button_background.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/button_background_disabled.xml b/smup_apk/build/apk/res/drawable/button_background_disabled.xml
+new file mode 100644
+index 0000000..8ed0e67
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/button_background_disabled.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/button_background_green.xml b/smup_apk/build/apk/res/drawable/button_background_green.xml
+new file mode 100644
+index 0000000..1731596
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/button_background_green.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/button_background_softkey.xml b/smup_apk/build/apk/res/drawable/button_background_softkey.xml
+new file mode 100644
+index 0000000..9b44537
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/button_background_softkey.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/button_color.xml b/smup_apk/build/apk/res/drawable/button_color.xml
+new file mode 100644
+index 0000000..afaff94
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/button_color.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/button_disabled.9.png b/smup_apk/build/apk/res/drawable/button_disabled.9.png
+new file mode 100644
+index 0000000..daa622a
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/button_disabled.9.png differ
+diff --git a/smup_apk/build/apk/res/drawable/button_focus.9.png b/smup_apk/build/apk/res/drawable/button_focus.9.png
+new file mode 100644
+index 0000000..301b492
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/button_focus.9.png differ
+diff --git a/smup_apk/build/apk/res/drawable/button_normal.9.png b/smup_apk/build/apk/res/drawable/button_normal.9.png
+new file mode 100644
+index 0000000..3695e29
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/button_normal.9.png differ
+diff --git a/smup_apk/build/apk/res/drawable/button_normal_german.9.png b/smup_apk/build/apk/res/drawable/button_normal_german.9.png
+new file mode 100644
+index 0000000..f0b0261
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/button_normal_german.9.png differ
+diff --git a/smup_apk/build/apk/res/drawable/button_normal_green.9.png b/smup_apk/build/apk/res/drawable/button_normal_green.9.png
+new file mode 100644
+index 0000000..8c5030e
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/button_normal_green.9.png differ
+diff --git a/smup_apk/build/apk/res/drawable/button_selected.9.png b/smup_apk/build/apk/res/drawable/button_selected.9.png
+new file mode 100644
+index 0000000..1a0f4b1
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/button_selected.9.png differ
+diff --git a/smup_apk/build/apk/res/drawable/button_selected_green.9.png b/smup_apk/build/apk/res/drawable/button_selected_green.9.png
+new file mode 100644
+index 0000000..8f27ffa
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/button_selected_green.9.png differ
+diff --git a/smup_apk/build/apk/res/drawable/checkbox_drawable.xml b/smup_apk/build/apk/res/drawable/checkbox_drawable.xml
+new file mode 100644
+index 0000000..ccd3e13
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/checkbox_drawable.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/close_but.png b/smup_apk/build/apk/res/drawable/close_but.png
+new file mode 100644
+index 0000000..f592ffb
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/close_but.png differ
+diff --git a/smup_apk/build/apk/res/drawable/com_facebook_auth_dialog_background.xml b/smup_apk/build/apk/res/drawable/com_facebook_auth_dialog_background.xml
+new file mode 100644
+index 0000000..d394d4f
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/com_facebook_auth_dialog_background.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/com_facebook_auth_dialog_cancel_background.xml b/smup_apk/build/apk/res/drawable/com_facebook_auth_dialog_cancel_background.xml
+new file mode 100644
+index 0000000..3706f84
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/com_facebook_auth_dialog_cancel_background.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/com_facebook_auth_dialog_header_background.xml b/smup_apk/build/apk/res/drawable/com_facebook_auth_dialog_header_background.xml
+new file mode 100644
+index 0000000..318b25c
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/com_facebook_auth_dialog_header_background.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/com_facebook_button_background.xml b/smup_apk/build/apk/res/drawable/com_facebook_button_background.xml
+new file mode 100644
+index 0000000..858e2c2
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/com_facebook_button_background.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/com_facebook_button_icon.xml b/smup_apk/build/apk/res/drawable/com_facebook_button_icon.xml
+new file mode 100644
+index 0000000..e3f751e
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/com_facebook_button_icon.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/com_facebook_button_like_background.xml b/smup_apk/build/apk/res/drawable/com_facebook_button_like_background.xml
+new file mode 100644
+index 0000000..5887841
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/com_facebook_button_like_background.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/com_facebook_button_login_background.xml b/smup_apk/build/apk/res/drawable/com_facebook_button_login_background.xml
+new file mode 100644
+index 0000000..f5a6177
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/com_facebook_button_login_background.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/com_facebook_button_login_logo.xml b/smup_apk/build/apk/res/drawable/com_facebook_button_login_logo.xml
+new file mode 100644
+index 0000000..3f4e1d7
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/com_facebook_button_login_logo.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/com_facebook_button_login_silver_background.xml b/smup_apk/build/apk/res/drawable/com_facebook_button_login_silver_background.xml
+new file mode 100644
+index 0000000..8218de9
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/com_facebook_button_login_silver_background.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/com_facebook_button_send_background.xml b/smup_apk/build/apk/res/drawable/com_facebook_button_send_background.xml
+new file mode 100644
+index 0000000..2658f01
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/com_facebook_button_send_background.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/com_facebook_favicon_blue.xml b/smup_apk/build/apk/res/drawable/com_facebook_favicon_blue.xml
+new file mode 100644
+index 0000000..f44e827
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/com_facebook_favicon_blue.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/com_facebook_send_button_icon.xml b/smup_apk/build/apk/res/drawable/com_facebook_send_button_icon.xml
+new file mode 100644
+index 0000000..b35d402
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/com_facebook_send_button_icon.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/content_cursor.png b/smup_apk/build/apk/res/drawable/content_cursor.png
+new file mode 100644
+index 0000000..b79a312
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/content_cursor.png differ
+diff --git a/smup_apk/build/apk/res/drawable/content_undo.png b/smup_apk/build/apk/res/drawable/content_undo.png
+new file mode 100644
+index 0000000..7165ca8
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/content_undo.png differ
+diff --git a/smup_apk/build/apk/res/drawable/dialog_button_cancel.xml b/smup_apk/build/apk/res/drawable/dialog_button_cancel.xml
+new file mode 100644
+index 0000000..4276b9f
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/dialog_button_cancel.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/dialog_button_ok.xml b/smup_apk/build/apk/res/drawable/dialog_button_ok.xml
+new file mode 100644
+index 0000000..41a6f49
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/dialog_button_ok.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/dialog_full_holo_light.9.png b/smup_apk/build/apk/res/drawable/dialog_full_holo_light.9.png
+new file mode 100644
+index 0000000..9bd3276
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/dialog_full_holo_light.9.png differ
+diff --git a/smup_apk/build/apk/res/drawable/glclub_logo.png b/smup_apk/build/apk/res/drawable/glclub_logo.png
+new file mode 100644
+index 0000000..b027b92
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/glclub_logo.png differ
+diff --git a/smup_apk/build/apk/res/drawable/ic_background.png b/smup_apk/build/apk/res/drawable/ic_background.png
+new file mode 100644
+index 0000000..c5f6105
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/ic_background.png differ
+diff --git a/smup_apk/build/apk/res/drawable/ic_launcher.png b/smup_apk/build/apk/res/drawable/ic_launcher.png
+new file mode 100644
+index 0000000..bc49bea
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/ic_launcher.png differ
+diff --git a/smup_apk/build/apk/res/drawable/icon_g.png b/smup_apk/build/apk/res/drawable/icon_g.png
+new file mode 100644
+index 0000000..bcde82a
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/icon_g.png differ
+diff --git a/smup_apk/build/apk/res/drawable/info_but.png b/smup_apk/build/apk/res/drawable/info_but.png
+new file mode 100644
+index 0000000..fcb036b
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/info_but.png differ
+diff --git a/smup_apk/build/apk/res/drawable/layout_background_dialog.png b/smup_apk/build/apk/res/drawable/layout_background_dialog.png
+new file mode 100644
+index 0000000..f47ebea
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/layout_background_dialog.png differ
+diff --git a/smup_apk/build/apk/res/drawable/loadingbar_background.png b/smup_apk/build/apk/res/drawable/loadingbar_background.png
+new file mode 100644
+index 0000000..6b7e6ae
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/loadingbar_background.png differ
+diff --git a/smup_apk/build/apk/res/drawable/loadingbar_foreground.png b/smup_apk/build/apk/res/drawable/loadingbar_foreground.png
+new file mode 100644
+index 0000000..627e736
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/loadingbar_foreground.png differ
+diff --git a/smup_apk/build/apk/res/drawable/navigation_back.png b/smup_apk/build/apk/res/drawable/navigation_back.png
+new file mode 100644
+index 0000000..8644f42
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/navigation_back.png differ
+diff --git a/smup_apk/build/apk/res/drawable/navigation_cancel.png b/smup_apk/build/apk/res/drawable/navigation_cancel.png
+new file mode 100644
+index 0000000..0c6eeb8
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/navigation_cancel.png differ
+diff --git a/smup_apk/build/apk/res/drawable/navigation_forward.png b/smup_apk/build/apk/res/drawable/navigation_forward.png
+new file mode 100644
+index 0000000..31d3915
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/navigation_forward.png differ
+diff --git a/smup_apk/build/apk/res/drawable/navigation_refresh.png b/smup_apk/build/apk/res/drawable/navigation_refresh.png
+new file mode 100644
+index 0000000..5098c71
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/navigation_refresh.png differ
+diff --git a/smup_apk/build/apk/res/drawable/pn_custom_icon.png b/smup_apk/build/apk/res/drawable/pn_custom_icon.png
+new file mode 100644
+index 0000000..09aee7c
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/pn_custom_icon.png differ
+diff --git a/smup_apk/build/apk/res/drawable/pn_status_icon.png b/smup_apk/build/apk/res/drawable/pn_status_icon.png
+new file mode 100644
+index 0000000..66988b3
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/pn_status_icon.png differ
+diff --git a/smup_apk/build/apk/res/drawable/popup_background.9.png b/smup_apk/build/apk/res/drawable/popup_background.9.png
+new file mode 100644
+index 0000000..9069a9b
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/popup_background.9.png differ
+diff --git a/smup_apk/build/apk/res/drawable/progressbar_middle.xml b/smup_apk/build/apk/res/drawable/progressbar_middle.xml
+new file mode 100644
+index 0000000..0de967d
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/progressbar_middle.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/radio_checked.xml b/smup_apk/build/apk/res/drawable/radio_checked.xml
+new file mode 100644
+index 0000000..5789de5
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/radio_checked.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/radio_unchecked.xml b/smup_apk/build/apk/res/drawable/radio_unchecked.xml
+new file mode 100644
+index 0000000..e544460
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/radio_unchecked.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/radiobutton_drawable.xml b/smup_apk/build/apk/res/drawable/radiobutton_drawable.xml
+new file mode 100644
+index 0000000..d151e09
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/radiobutton_drawable.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/scrollbar_vertical_thumb.xml b/smup_apk/build/apk/res/drawable/scrollbar_vertical_thumb.xml
+new file mode 100644
+index 0000000..d09fd1e
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/scrollbar_vertical_thumb.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/scrollbar_vertical_track.xml b/smup_apk/build/apk/res/drawable/scrollbar_vertical_track.xml
+new file mode 100644
+index 0000000..1f7bcdc
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/scrollbar_vertical_track.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/shape_dialog_bg.xml b/smup_apk/build/apk/res/drawable/shape_dialog_bg.xml
+new file mode 100644
+index 0000000..f97b6c7
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/shape_dialog_bg.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/shape_dialog_button_cancel_normal.xml b/smup_apk/build/apk/res/drawable/shape_dialog_button_cancel_normal.xml
+new file mode 100644
+index 0000000..98c406a
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/shape_dialog_button_cancel_normal.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/shape_dialog_button_cancel_pressed.xml b/smup_apk/build/apk/res/drawable/shape_dialog_button_cancel_pressed.xml
+new file mode 100644
+index 0000000..b4582c5
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/shape_dialog_button_cancel_pressed.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/shape_dialog_button_ok_normal.xml b/smup_apk/build/apk/res/drawable/shape_dialog_button_ok_normal.xml
+new file mode 100644
+index 0000000..3da3503
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/shape_dialog_button_ok_normal.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/shape_dialog_button_ok_pressed.xml b/smup_apk/build/apk/res/drawable/shape_dialog_button_ok_pressed.xml
+new file mode 100644
+index 0000000..08e5fb5
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/shape_dialog_button_ok_pressed.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/sk_back_focus.png b/smup_apk/build/apk/res/drawable/sk_back_focus.png
+new file mode 100644
+index 0000000..5f696fb
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/sk_back_focus.png differ
+diff --git a/smup_apk/build/apk/res/drawable/sk_back_normal.png b/smup_apk/build/apk/res/drawable/sk_back_normal.png
+new file mode 100644
+index 0000000..664de1d
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/sk_back_normal.png differ
+diff --git a/smup_apk/build/apk/res/drawable/sk_back_selected.png b/smup_apk/build/apk/res/drawable/sk_back_selected.png
+new file mode 100644
+index 0000000..0276165
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/sk_back_selected.png differ
+diff --git a/smup_apk/build/apk/res/drawable/startbackground.png b/smup_apk/build/apk/res/drawable/startbackground.png
+new file mode 100644
+index 0000000..9d80060
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/startbackground.png differ
+diff --git a/smup_apk/build/apk/res/drawable/style_progressbar_downloading.xml b/smup_apk/build/apk/res/drawable/style_progressbar_downloading.xml
+new file mode 100644
+index 0000000..b7e81ea
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/style_progressbar_downloading.xml differ
+diff --git a/smup_apk/build/apk/res/drawable/tw_widget_progressbar_effect_holo_light.png b/smup_apk/build/apk/res/drawable/tw_widget_progressbar_effect_holo_light.png
+new file mode 100644
+index 0000000..0250b89
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/tw_widget_progressbar_effect_holo_light.png differ
+diff --git a/smup_apk/build/apk/res/drawable/tw_widget_progressbar_holo_light.png b/smup_apk/build/apk/res/drawable/tw_widget_progressbar_holo_light.png
+new file mode 100644
+index 0000000..d9c22c0
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/tw_widget_progressbar_holo_light.png differ
+diff --git a/smup_apk/build/apk/res/drawable/wrapper_background.png b/smup_apk/build/apk/res/drawable/wrapper_background.png
+new file mode 100644
+index 0000000..220c38b
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/wrapper_background.png differ
+diff --git a/smup_apk/build/apk/res/drawable/wrapper_logo.png b/smup_apk/build/apk/res/drawable/wrapper_logo.png
+new file mode 100644
+index 0000000..7ef2b2e
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable/wrapper_logo.png differ
+diff --git a/smup_apk/build/apk/res/drawable-hdpi-v11/pn_status_icon.png b/smup_apk/build/apk/res/drawable-hdpi-v11/pn_status_icon.png
+new file mode 100644
+index 0000000..b57b608
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-hdpi-v11/pn_status_icon.png differ
+diff --git a/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_button_icon_blue.png b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_button_icon_blue.png
+new file mode 100644
+index 0000000..42e8f10
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_button_icon_blue.png differ
+diff --git a/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_button_icon_white.png b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_button_icon_white.png
+new file mode 100644
+index 0000000..7e36315
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_button_icon_white.png differ
+diff --git a/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png
+new file mode 100644
+index 0000000..d19867b
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png differ
+diff --git a/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_button_send_icon_blue.png b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_button_send_icon_blue.png
+new file mode 100644
+index 0000000..97354f9
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_button_send_icon_blue.png differ
+diff --git a/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_button_send_icon_white.png b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_button_send_icon_white.png
+new file mode 100644
+index 0000000..e0ffc38
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_button_send_icon_white.png differ
+diff --git a/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_close.png b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_close.png
+new file mode 100644
+index 0000000..880259e
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_close.png differ
+diff --git a/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png
+new file mode 100644
+index 0000000..ebbbdbe
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png differ
+diff --git a/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png
+new file mode 100644
+index 0000000..f7356f5
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png differ
+diff --git a/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png
+new file mode 100644
+index 0000000..80ed4db
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png differ
+diff --git a/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png
+new file mode 100644
+index 0000000..ed13f02
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png differ
+diff --git a/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png
+new file mode 100644
+index 0000000..84d7634
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png differ
+diff --git a/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png
+new file mode 100644
+index 0000000..ab9623b
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png differ
+diff --git a/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png
+new file mode 100644
+index 0000000..842ab67
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png differ
+diff --git a/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png
+new file mode 100644
+index 0000000..358cf02
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png differ
+diff --git a/smup_apk/build/apk/res/drawable-hdpi-v4/ic_launcher.png b/smup_apk/build/apk/res/drawable-hdpi-v4/ic_launcher.png
+new file mode 100644
+index 0000000..d1c2d9e
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-hdpi-v4/ic_launcher.png differ
+diff --git a/smup_apk/build/apk/res/drawable-hdpi-v4/tw_widget_progressbar_effect_holo_light.png b/smup_apk/build/apk/res/drawable-hdpi-v4/tw_widget_progressbar_effect_holo_light.png
+new file mode 100644
+index 0000000..0250b89
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-hdpi-v4/tw_widget_progressbar_effect_holo_light.png differ
+diff --git a/smup_apk/build/apk/res/drawable-hdpi-v4/tw_widget_progressbar_holo_light.png b/smup_apk/build/apk/res/drawable-hdpi-v4/tw_widget_progressbar_holo_light.png
+new file mode 100644
+index 0000000..d9c22c0
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-hdpi-v4/tw_widget_progressbar_holo_light.png differ
+diff --git a/smup_apk/build/apk/res/drawable-ldpi-v11/pn_status_icon.png b/smup_apk/build/apk/res/drawable-ldpi-v11/pn_status_icon.png
+new file mode 100644
+index 0000000..13761b8
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-ldpi-v11/pn_status_icon.png differ
+diff --git a/smup_apk/build/apk/res/drawable-ldpi-v4/ic_launcher.png b/smup_apk/build/apk/res/drawable-ldpi-v4/ic_launcher.png
+new file mode 100644
+index 0000000..d1c2d9e
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-ldpi-v4/ic_launcher.png differ
+diff --git a/smup_apk/build/apk/res/drawable-mdpi-v11/pn_status_icon.png b/smup_apk/build/apk/res/drawable-mdpi-v11/pn_status_icon.png
+new file mode 100644
+index 0000000..13761b8
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-mdpi-v11/pn_status_icon.png differ
+diff --git a/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_button_icon_blue.png b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_button_icon_blue.png
+new file mode 100644
+index 0000000..5989df0
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_button_icon_blue.png differ
+diff --git a/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_button_icon_white.png b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_button_icon_white.png
+new file mode 100644
+index 0000000..723f96e
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_button_icon_white.png differ
+diff --git a/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_button_like_icon_selected.png b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_button_like_icon_selected.png
+new file mode 100644
+index 0000000..9c09a37
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_button_like_icon_selected.png differ
+diff --git a/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_button_send_icon_blue.png b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_button_send_icon_blue.png
+new file mode 100644
+index 0000000..78c8d64
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_button_send_icon_blue.png differ
+diff --git a/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_button_send_icon_white.png b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_button_send_icon_white.png
+new file mode 100644
+index 0000000..334bc41
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_button_send_icon_white.png differ
+diff --git a/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_close.png b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_close.png
+new file mode 100644
+index 0000000..15a762a
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_close.png differ
+diff --git a/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_portrait.png b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_portrait.png
+new file mode 100644
+index 0000000..cd27dcc
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_portrait.png differ
+diff --git a/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_square.png b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_square.png
+new file mode 100644
+index 0000000..027de16
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_square.png differ
+diff --git a/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png
+new file mode 100644
+index 0000000..cb1166a
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png differ
+diff --git a/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png
+new file mode 100644
+index 0000000..8bcad9f
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png differ
+diff --git a/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png
+new file mode 100644
+index 0000000..7457de9
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png differ
+diff --git a/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png
+new file mode 100644
+index 0000000..8769f73
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png differ
+diff --git a/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png
+new file mode 100644
+index 0000000..eeb8cd0
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png differ
+diff --git a/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png
+new file mode 100644
+index 0000000..8513fe0
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png differ
+diff --git a/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png
+new file mode 100644
+index 0000000..6749ed8
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png differ
+diff --git a/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png
+new file mode 100644
+index 0000000..4a4d898
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png differ
+diff --git a/smup_apk/build/apk/res/drawable-mdpi-v4/german_buy_button.xml b/smup_apk/build/apk/res/drawable-mdpi-v4/german_buy_button.xml
+new file mode 100644
+index 0000000..86f087e
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-mdpi-v4/german_buy_button.xml differ
+diff --git a/smup_apk/build/apk/res/drawable-mdpi-v4/ic_launcher.png b/smup_apk/build/apk/res/drawable-mdpi-v4/ic_launcher.png
+new file mode 100644
+index 0000000..d1c2d9e
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-mdpi-v4/ic_launcher.png differ
+diff --git a/smup_apk/build/apk/res/drawable-mdpi-v4/tw_widget_progressbar_effect_holo_light.png b/smup_apk/build/apk/res/drawable-mdpi-v4/tw_widget_progressbar_effect_holo_light.png
+new file mode 100644
+index 0000000..0250b89
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-mdpi-v4/tw_widget_progressbar_effect_holo_light.png differ
+diff --git a/smup_apk/build/apk/res/drawable-mdpi-v4/tw_widget_progressbar_holo_light.png b/smup_apk/build/apk/res/drawable-mdpi-v4/tw_widget_progressbar_holo_light.png
+new file mode 100644
+index 0000000..d9c22c0
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-mdpi-v4/tw_widget_progressbar_holo_light.png differ
+diff --git a/smup_apk/build/apk/res/drawable-v21/com_facebook_button_login_logo.xml b/smup_apk/build/apk/res/drawable-v21/com_facebook_button_login_logo.xml
+new file mode 100644
+index 0000000..545ab5e
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-v21/com_facebook_button_login_logo.xml differ
+diff --git a/smup_apk/build/apk/res/drawable-v21/com_facebook_favicon_blue.xml b/smup_apk/build/apk/res/drawable-v21/com_facebook_favicon_blue.xml
+new file mode 100644
+index 0000000..4cc3603
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-v21/com_facebook_favicon_blue.xml differ
+diff --git a/smup_apk/build/apk/res/drawable-xhdpi-v11/pn_status_icon.png b/smup_apk/build/apk/res/drawable-xhdpi-v11/pn_status_icon.png
+new file mode 100644
+index 0000000..66988b3
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xhdpi-v11/pn_status_icon.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_button_icon_blue.png b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_button_icon_blue.png
+new file mode 100644
+index 0000000..34289d3
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_button_icon_blue.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_button_icon_white.png b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_button_icon_white.png
+new file mode 100644
+index 0000000..4262e7f
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_button_icon_white.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_button_like_icon_selected.png b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_button_like_icon_selected.png
+new file mode 100644
+index 0000000..3b36662
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_button_like_icon_selected.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_button_send_icon_blue.png b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_button_send_icon_blue.png
+new file mode 100644
+index 0000000..17aa49a
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_button_send_icon_blue.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_button_send_icon_white.png b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_button_send_icon_white.png
+new file mode 100644
+index 0000000..89b2455
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_button_send_icon_white.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_close.png b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_close.png
+new file mode 100644
+index 0000000..33b9c4b
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_close.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png
+new file mode 100644
+index 0000000..28dbb81
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png
+new file mode 100644
+index 0000000..1245640
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png
+new file mode 100644
+index 0000000..6897458
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png
+new file mode 100644
+index 0000000..9fcf45d
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png
+new file mode 100644
+index 0000000..a9e278c
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png
+new file mode 100644
+index 0000000..79872eb
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png
+new file mode 100644
+index 0000000..b8381bc
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png
+new file mode 100644
+index 0000000..2cff54d
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xhdpi-v4/ic_launcher.png b/smup_apk/build/apk/res/drawable-xhdpi-v4/ic_launcher.png
+new file mode 100644
+index 0000000..d1c2d9e
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xhdpi-v4/ic_launcher.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xhdpi-v4/tw_widget_progressbar_effect_holo_light.png b/smup_apk/build/apk/res/drawable-xhdpi-v4/tw_widget_progressbar_effect_holo_light.png
+new file mode 100644
+index 0000000..1d63111
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xhdpi-v4/tw_widget_progressbar_effect_holo_light.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xhdpi-v4/tw_widget_progressbar_holo_light.png b/smup_apk/build/apk/res/drawable-xhdpi-v4/tw_widget_progressbar_holo_light.png
+new file mode 100644
+index 0000000..7319309
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xhdpi-v4/tw_widget_progressbar_holo_light.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xxhdpi-v4/com_facebook_button_icon_blue.png b/smup_apk/build/apk/res/drawable-xxhdpi-v4/com_facebook_button_icon_blue.png
+new file mode 100644
+index 0000000..152ad13
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xxhdpi-v4/com_facebook_button_icon_blue.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xxhdpi-v4/com_facebook_button_icon_white.png b/smup_apk/build/apk/res/drawable-xxhdpi-v4/com_facebook_button_icon_white.png
+new file mode 100644
+index 0000000..3e18778
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xxhdpi-v4/com_facebook_button_icon_white.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png b/smup_apk/build/apk/res/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png
+new file mode 100644
+index 0000000..5337bd2
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xxhdpi-v4/com_facebook_button_send_icon_white.png b/smup_apk/build/apk/res/drawable-xxhdpi-v4/com_facebook_button_send_icon_white.png
+new file mode 100644
+index 0000000..21bb712
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xxhdpi-v4/com_facebook_button_send_icon_white.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xxhdpi-v4/ic_launcher.png b/smup_apk/build/apk/res/drawable-xxhdpi-v4/ic_launcher.png
+new file mode 100644
+index 0000000..d1c2d9e
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xxhdpi-v4/ic_launcher.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xxhdpi-v4/tw_widget_progressbar_effect_holo_light.png b/smup_apk/build/apk/res/drawable-xxhdpi-v4/tw_widget_progressbar_effect_holo_light.png
+new file mode 100644
+index 0000000..9ac6c58
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xxhdpi-v4/tw_widget_progressbar_effect_holo_light.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xxhdpi-v4/tw_widget_progressbar_holo_light.png b/smup_apk/build/apk/res/drawable-xxhdpi-v4/tw_widget_progressbar_holo_light.png
+new file mode 100644
+index 0000000..864ad36
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xxhdpi-v4/tw_widget_progressbar_holo_light.png differ
+diff --git a/smup_apk/build/apk/res/drawable-xxxhdpi-v4/ic_launcher.png b/smup_apk/build/apk/res/drawable-xxxhdpi-v4/ic_launcher.png
+new file mode 100644
+index 0000000..d1c2d9e
+Binary files /dev/null and b/smup_apk/build/apk/res/drawable-xxxhdpi-v4/ic_launcher.png differ
+diff --git a/smup_apk/build/apk/res/layout/activity_main.xml b/smup_apk/build/apk/res/layout/activity_main.xml
+new file mode 100644
+index 0000000..2e7e366
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/activity_main.xml differ
+diff --git a/smup_apk/build/apk/res/layout/button_styled.xml b/smup_apk/build/apk/res/layout/button_styled.xml
+new file mode 100644
+index 0000000..88fb1b2
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/button_styled.xml differ
+diff --git a/smup_apk/build/apk/res/layout/com_facebook_activity_layout.xml b/smup_apk/build/apk/res/layout/com_facebook_activity_layout.xml
+new file mode 100644
+index 0000000..8570f76
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/com_facebook_activity_layout.xml differ
+diff --git a/smup_apk/build/apk/res/layout/com_facebook_device_auth_dialog_fragment.xml b/smup_apk/build/apk/res/layout/com_facebook_device_auth_dialog_fragment.xml
+new file mode 100644
+index 0000000..8172e52
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/com_facebook_device_auth_dialog_fragment.xml differ
+diff --git a/smup_apk/build/apk/res/layout/com_facebook_login_fragment.xml b/smup_apk/build/apk/res/layout/com_facebook_login_fragment.xml
+new file mode 100644
+index 0000000..e9edb0e
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/com_facebook_login_fragment.xml differ
+diff --git a/smup_apk/build/apk/res/layout/com_facebook_smart_device_dialog_fragment.xml b/smup_apk/build/apk/res/layout/com_facebook_smart_device_dialog_fragment.xml
+new file mode 100644
+index 0000000..498d426
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/com_facebook_smart_device_dialog_fragment.xml differ
+diff --git a/smup_apk/build/apk/res/layout/com_facebook_tooltip_bubble.xml b/smup_apk/build/apk/res/layout/com_facebook_tooltip_bubble.xml
+new file mode 100644
+index 0000000..f8ed998
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/com_facebook_tooltip_bubble.xml differ
+diff --git a/smup_apk/build/apk/res/layout/custom_alert_dialog.xml b/smup_apk/build/apk/res/layout/custom_alert_dialog.xml
+new file mode 100644
+index 0000000..75ece64
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/custom_alert_dialog.xml differ
+diff --git a/smup_apk/build/apk/res/layout/custom_notification_layout.xml b/smup_apk/build/apk/res/layout/custom_notification_layout.xml
+new file mode 100644
+index 0000000..14d0a9a
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/custom_notification_layout.xml differ
+diff --git a/smup_apk/build/apk/res/layout/iap_layout_autodetect_country.xml b/smup_apk/build/apk/res/layout/iap_layout_autodetect_country.xml
+new file mode 100644
+index 0000000..fbb1f22
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/iap_layout_autodetect_country.xml differ
+diff --git a/smup_apk/build/apk/res/layout/iap_layout_osconfirmation.xml b/smup_apk/build/apk/res/layout/iap_layout_osconfirmation.xml
+new file mode 100644
+index 0000000..d305edb
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/iap_layout_osconfirmation.xml differ
+diff --git a/smup_apk/build/apk/res/layout/iap_layout_osconfirmation_directiap.xml b/smup_apk/build/apk/res/layout/iap_layout_osconfirmation_directiap.xml
+new file mode 100644
+index 0000000..566a5ec
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/iap_layout_osconfirmation_directiap.xml differ
+diff --git a/smup_apk/build/apk/res/layout/iap_layout_osconfirmation_sp.xml b/smup_apk/build/apk/res/layout/iap_layout_osconfirmation_sp.xml
+new file mode 100644
+index 0000000..9aceb21
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/iap_layout_osconfirmation_sp.xml differ
+diff --git a/smup_apk/build/apk/res/layout/iap_layout_osconfirmation_sp_directiap.xml b/smup_apk/build/apk/res/layout/iap_layout_osconfirmation_sp_directiap.xml
+new file mode 100644
+index 0000000..1f45223
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/iap_layout_osconfirmation_sp_directiap.xml differ
+diff --git a/smup_apk/build/apk/res/layout/iap_layout_osselection_cc.xml b/smup_apk/build/apk/res/layout/iap_layout_osselection_cc.xml
+new file mode 100644
+index 0000000..c29bb8a
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/iap_layout_osselection_cc.xml differ
+diff --git a/smup_apk/build/apk/res/layout/iap_layout_osselection_sms_method.xml b/smup_apk/build/apk/res/layout/iap_layout_osselection_sms_method.xml
+new file mode 100644
+index 0000000..c4d37bf
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/iap_layout_osselection_sms_method.xml differ
+diff --git a/smup_apk/build/apk/res/layout/iap_layout_osselection_sms_method_ar.xml b/smup_apk/build/apk/res/layout/iap_layout_osselection_sms_method_ar.xml
+new file mode 100644
+index 0000000..9528420
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/iap_layout_osselection_sms_method_ar.xml differ
+diff --git a/smup_apk/build/apk/res/layout/iap_osconfirmation_germany.xml b/smup_apk/build/apk/res/layout/iap_osconfirmation_germany.xml
+new file mode 100644
+index 0000000..a836e2f
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/iap_osconfirmation_germany.xml differ
+diff --git a/smup_apk/build/apk/res/layout/iap_webview.xml b/smup_apk/build/apk/res/layout/iap_webview.xml
+new file mode 100644
+index 0000000..5fc6ec1
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/iap_webview.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_acceptance_link.xml b/smup_apk/build/apk/res/layout/layout_acceptance_link.xml
+new file mode 100644
+index 0000000..703e14a
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_acceptance_link.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_age_gate.xml b/smup_apk/build/apk/res/layout/layout_age_gate.xml
+new file mode 100644
+index 0000000..93bb65d
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_age_gate.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_base.xml b/smup_apk/build/apk/res/layout/layout_base.xml
+new file mode 100644
+index 0000000..2b90f4a
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_base.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_buy_confirmation.xml b/smup_apk/build/apk/res/layout/layout_buy_confirmation.xml
+new file mode 100644
+index 0000000..571f3e7
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_buy_confirmation.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_buy_confirmation_german.xml b/smup_apk/build/apk/res/layout/layout_buy_confirmation_german.xml
+new file mode 100644
+index 0000000..31aeb83
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_buy_confirmation_german.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_buy_confirmation_sp.xml b/smup_apk/build/apk/res/layout/layout_buy_confirmation_sp.xml
+new file mode 100644
+index 0000000..97798b7
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_buy_confirmation_sp.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_buy_confirmation_turkey.xml b/smup_apk/build/apk/res/layout/layout_buy_confirmation_turkey.xml
+new file mode 100644
+index 0000000..cba5b97
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_buy_confirmation_turkey.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_carrier_selection.xml b/smup_apk/build/apk/res/layout/layout_carrier_selection.xml
+new file mode 100644
+index 0000000..1ef80dd
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_carrier_selection.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_confirm_popup.xml b/smup_apk/build/apk/res/layout/layout_confirm_popup.xml
+new file mode 100644
+index 0000000..bfe8620
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_confirm_popup.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_confirm_resetage.xml b/smup_apk/build/apk/res/layout/layout_confirm_resetage.xml
+new file mode 100644
+index 0000000..7373899
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_confirm_resetage.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_country_selection.xml b/smup_apk/build/apk/res/layout/layout_country_selection.xml
+new file mode 100644
+index 0000000..4d8a430
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_country_selection.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_demo_ended.xml b/smup_apk/build/apk/res/layout/layout_demo_ended.xml
+new file mode 100644
+index 0000000..d7658b6
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_demo_ended.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_downloading_dialog.xml b/smup_apk/build/apk/res/layout/layout_downloading_dialog.xml
+new file mode 100644
+index 0000000..014fd91
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_downloading_dialog.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_first_loading.xml b/smup_apk/build/apk/res/layout/layout_first_loading.xml
+new file mode 100644
+index 0000000..877b705
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_first_loading.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_gameloftlogo.xml b/smup_apk/build/apk/res/layout/layout_gameloftlogo.xml
+new file mode 100644
+index 0000000..7fb083d
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_gameloftlogo.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_glclub_more_tyc.xml b/smup_apk/build/apk/res/layout/layout_glclub_more_tyc.xml
+new file mode 100644
+index 0000000..5f91179
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_glclub_more_tyc.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_glclub_tyc.xml b/smup_apk/build/apk/res/layout/layout_glclub_tyc.xml
+new file mode 100644
+index 0000000..8200bef
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_glclub_tyc.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_help.xml b/smup_apk/build/apk/res/layout/layout_help.xml
+new file mode 100644
+index 0000000..cb91707
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_help.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_input_code.xml b/smup_apk/build/apk/res/layout/layout_input_code.xml
+new file mode 100644
+index 0000000..2a33f12
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_input_code.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_input_wrong_code.xml b/smup_apk/build/apk/res/layout/layout_input_wrong_code.xml
+new file mode 100644
+index 0000000..a5ea144
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_input_wrong_code.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_install.xml b/smup_apk/build/apk/res/layout/layout_install.xml
+new file mode 100644
+index 0000000..7489447
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_install.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_join_glclub.xml b/smup_apk/build/apk/res/layout/layout_join_glclub.xml
+new file mode 100644
+index 0000000..9cae5e1
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_join_glclub.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_language_selection.xml b/smup_apk/build/apk/res/layout/layout_language_selection.xml
+new file mode 100644
+index 0000000..86387b9
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_language_selection.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_legal.xml b/smup_apk/build/apk/res/layout/layout_legal.xml
+new file mode 100644
+index 0000000..4f5bd3e
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_legal.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_legal_glclub.xml b/smup_apk/build/apk/res/layout/layout_legal_glclub.xml
+new file mode 100644
+index 0000000..fd1f56b
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_legal_glclub.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_loading.xml b/smup_apk/build/apk/res/layout/layout_loading.xml
+new file mode 100644
+index 0000000..a394afc
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_loading.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_main_menu.xml b/smup_apk/build/apk/res/layout/layout_main_menu.xml
+new file mode 100644
+index 0000000..5a3eb7a
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_main_menu.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_note_recovery.xml b/smup_apk/build/apk/res/layout/layout_note_recovery.xml
+new file mode 100644
+index 0000000..b02c41e
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_note_recovery.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_operator.xml b/smup_apk/build/apk/res/layout/layout_operator.xml
+new file mode 100644
+index 0000000..0e978bf
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_operator.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_recover_igp.xml b/smup_apk/build/apk/res/layout/layout_recover_igp.xml
+new file mode 100644
+index 0000000..5b78a55
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_recover_igp.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_recover_igp_mo.xml b/smup_apk/build/apk/res/layout/layout_recover_igp_mo.xml
+new file mode 100644
+index 0000000..05232bf
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_recover_igp_mo.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_sms_buy_menu.xml b/smup_apk/build/apk/res/layout/layout_sms_buy_menu.xml
+new file mode 100644
+index 0000000..3a9c04e
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_sms_buy_menu.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_sms_change_sim.xml b/smup_apk/build/apk/res/layout/layout_sms_change_sim.xml
+new file mode 100644
+index 0000000..5d86b5a
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_sms_change_sim.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_sms_confirm.xml b/smup_apk/build/apk/res/layout/layout_sms_confirm.xml
+new file mode 100644
+index 0000000..5c9dbef
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_sms_confirm.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_sms_confirm_tunisia.xml b/smup_apk/build/apk/res/layout/layout_sms_confirm_tunisia.xml
+new file mode 100644
+index 0000000..ef6e6f1
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_sms_confirm_tunisia.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_sms_game_not_available.xml b/smup_apk/build/apk/res/layout/layout_sms_game_not_available.xml
+new file mode 100644
+index 0000000..d137c86
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_sms_game_not_available.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_sms_sending.xml b/smup_apk/build/apk/res/layout/layout_sms_sending.xml
+new file mode 100644
+index 0000000..9b5029c
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_sms_sending.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_sms_sent_failed.xml b/smup_apk/build/apk/res/layout/layout_sms_sent_failed.xml
+new file mode 100644
+index 0000000..38ccaf1
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_sms_sent_failed.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_sms_sent_failed_india.xml b/smup_apk/build/apk/res/layout/layout_sms_sent_failed_india.xml
+new file mode 100644
+index 0000000..ea752ca
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_sms_sent_failed_india.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_sms_sent_sucess.xml b/smup_apk/build/apk/res/layout/layout_sms_sent_sucess.xml
+new file mode 100644
+index 0000000..da1079d
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_sms_sent_sucess.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_sms_sent_sucess_igp.xml b/smup_apk/build/apk/res/layout/layout_sms_sent_sucess_igp.xml
+new file mode 100644
+index 0000000..293143b
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_sms_sent_sucess_igp.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_sms_start_choose_sim.xml b/smup_apk/build/apk/res/layout/layout_sms_start_choose_sim.xml
+new file mode 100644
+index 0000000..2828890
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_sms_start_choose_sim.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_sms_wait_unlock.xml b/smup_apk/build/apk/res/layout/layout_sms_wait_unlock.xml
+new file mode 100644
+index 0000000..b20f557
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_sms_wait_unlock.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_unlocked.xml b/smup_apk/build/apk/res/layout/layout_unlocked.xml
+new file mode 100644
+index 0000000..dd3ddd0
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_unlocked.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_unlocked_silent.xml b/smup_apk/build/apk/res/layout/layout_unlocked_silent.xml
+new file mode 100644
+index 0000000..6313cb0
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_unlocked_silent.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_wait_to_copy.xml b/smup_apk/build/apk/res/layout/layout_wait_to_copy.xml
+new file mode 100644
+index 0000000..aba9bb6
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_wait_to_copy.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_will_play_demo.xml b/smup_apk/build/apk/res/layout/layout_will_play_demo.xml
+new file mode 100644
+index 0000000..a3bc84f
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_will_play_demo.xml differ
+diff --git a/smup_apk/build/apk/res/layout/layout_wrong_age.xml b/smup_apk/build/apk/res/layout/layout_wrong_age.xml
+new file mode 100644
+index 0000000..21da402
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/layout_wrong_age.xml differ
+diff --git a/smup_apk/build/apk/res/layout/main.xml b/smup_apk/build/apk/res/layout/main.xml
+new file mode 100644
+index 0000000..03c7b56
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/main.xml differ
+diff --git a/smup_apk/build/apk/res/layout/progress_dialog.xml b/smup_apk/build/apk/res/layout/progress_dialog.xml
+new file mode 100644
+index 0000000..302b20a
+Binary files /dev/null and b/smup_apk/build/apk/res/layout/progress_dialog.xml differ
+diff --git a/smup_apk/build/apk/res/layout-land/activity_in_game_browser.xml b/smup_apk/build/apk/res/layout-land/activity_in_game_browser.xml
+new file mode 100644
+index 0000000..b4f0311
+Binary files /dev/null and b/smup_apk/build/apk/res/layout-land/activity_in_game_browser.xml differ
+diff --git a/smup_apk/build/apk/res/layout-port/activity_in_game_browser.xml b/smup_apk/build/apk/res/layout-port/activity_in_game_browser.xml
+new file mode 100644
+index 0000000..67b5e09
+Binary files /dev/null and b/smup_apk/build/apk/res/layout-port/activity_in_game_browser.xml differ
+diff --git a/smup_apk/build/apk/res/layout-v16/com_facebook_device_auth_dialog_fragment.xml b/smup_apk/build/apk/res/layout-v16/com_facebook_device_auth_dialog_fragment.xml
+new file mode 100644
+index 0000000..fd49183
+Binary files /dev/null and b/smup_apk/build/apk/res/layout-v16/com_facebook_device_auth_dialog_fragment.xml differ
+diff --git a/smup_apk/build/apk/res/layout-v16/com_facebook_smart_device_dialog_fragment.xml b/smup_apk/build/apk/res/layout-v16/com_facebook_smart_device_dialog_fragment.xml
+new file mode 100644
+index 0000000..62b42a4
+Binary files /dev/null and b/smup_apk/build/apk/res/layout-v16/com_facebook_smart_device_dialog_fragment.xml differ
+diff --git a/smup_apk/build/apk/res/layout-v17/com_facebook_device_auth_dialog_fragment.xml b/smup_apk/build/apk/res/layout-v17/com_facebook_device_auth_dialog_fragment.xml
+new file mode 100644
+index 0000000..dde7006
+Binary files /dev/null and b/smup_apk/build/apk/res/layout-v17/com_facebook_device_auth_dialog_fragment.xml differ
+diff --git a/smup_apk/build/apk/res/layout-v17/com_facebook_smart_device_dialog_fragment.xml b/smup_apk/build/apk/res/layout-v17/com_facebook_smart_device_dialog_fragment.xml
+new file mode 100644
+index 0000000..4f671e7
+Binary files /dev/null and b/smup_apk/build/apk/res/layout-v17/com_facebook_smart_device_dialog_fragment.xml differ
+diff --git a/smup_apk/build/apk/res/layout-v17/layout_confirm_popup.xml b/smup_apk/build/apk/res/layout-v17/layout_confirm_popup.xml
+new file mode 100644
+index 0000000..5da5a00
+Binary files /dev/null and b/smup_apk/build/apk/res/layout-v17/layout_confirm_popup.xml differ
+diff --git a/smup_apk/build/apk/res/menu/activity_main.xml b/smup_apk/build/apk/res/menu/activity_main.xml
+new file mode 100644
+index 0000000..42f787d
+Binary files /dev/null and b/smup_apk/build/apk/res/menu/activity_main.xml differ
+diff --git a/smup_apk/build/apk/res/mipmap/ic_launcher.png b/smup_apk/build/apk/res/mipmap/ic_launcher.png
+new file mode 100644
+index 0000000..bc49bea
+Binary files /dev/null and b/smup_apk/build/apk/res/mipmap/ic_launcher.png differ
+diff --git a/smup_apk/build/apk/res/mipmap/ic_pn8.png b/smup_apk/build/apk/res/mipmap/ic_pn8.png
+new file mode 100644
+index 0000000..bc49bea
+Binary files /dev/null and b/smup_apk/build/apk/res/mipmap/ic_pn8.png differ
+diff --git a/smup_apk/build/apk/res/mipmap-anydpi-v26/ic_launcher.xml b/smup_apk/build/apk/res/mipmap-anydpi-v26/ic_launcher.xml
+new file mode 100644
+index 0000000..8ba6850
+Binary files /dev/null and b/smup_apk/build/apk/res/mipmap-anydpi-v26/ic_launcher.xml differ
+diff --git a/smup_apk/build/apk/res/mipmap-hdpi-v4/ic_launcher.png b/smup_apk/build/apk/res/mipmap-hdpi-v4/ic_launcher.png
+new file mode 100644
+index 0000000..6687904
+Binary files /dev/null and b/smup_apk/build/apk/res/mipmap-hdpi-v4/ic_launcher.png differ
+diff --git a/smup_apk/build/apk/res/mipmap-hdpi-v4/ic_pn8.png b/smup_apk/build/apk/res/mipmap-hdpi-v4/ic_pn8.png
+new file mode 100644
+index 0000000..6687904
+Binary files /dev/null and b/smup_apk/build/apk/res/mipmap-hdpi-v4/ic_pn8.png differ
+diff --git a/smup_apk/build/apk/res/mipmap-ldpi-v4/ic_launcher.png b/smup_apk/build/apk/res/mipmap-ldpi-v4/ic_launcher.png
+new file mode 100644
+index 0000000..119dc90
+Binary files /dev/null and b/smup_apk/build/apk/res/mipmap-ldpi-v4/ic_launcher.png differ
+diff --git a/smup_apk/build/apk/res/mipmap-ldpi-v4/ic_pn8.png b/smup_apk/build/apk/res/mipmap-ldpi-v4/ic_pn8.png
+new file mode 100644
+index 0000000..119dc90
+Binary files /dev/null and b/smup_apk/build/apk/res/mipmap-ldpi-v4/ic_pn8.png differ
+diff --git a/smup_apk/build/apk/res/mipmap-mdpi-v4/ic_launcher.png b/smup_apk/build/apk/res/mipmap-mdpi-v4/ic_launcher.png
+new file mode 100644
+index 0000000..9b1258b
+Binary files /dev/null and b/smup_apk/build/apk/res/mipmap-mdpi-v4/ic_launcher.png differ
+diff --git a/smup_apk/build/apk/res/mipmap-mdpi-v4/ic_pn8.png b/smup_apk/build/apk/res/mipmap-mdpi-v4/ic_pn8.png
+new file mode 100644
+index 0000000..9b1258b
+Binary files /dev/null and b/smup_apk/build/apk/res/mipmap-mdpi-v4/ic_pn8.png differ
+diff --git a/smup_apk/build/apk/res/mipmap-xhdpi-v4/ic_launcher.png b/smup_apk/build/apk/res/mipmap-xhdpi-v4/ic_launcher.png
+new file mode 100644
+index 0000000..bc49bea
+Binary files /dev/null and b/smup_apk/build/apk/res/mipmap-xhdpi-v4/ic_launcher.png differ
+diff --git a/smup_apk/build/apk/res/mipmap-xhdpi-v4/ic_pn8.png b/smup_apk/build/apk/res/mipmap-xhdpi-v4/ic_pn8.png
+new file mode 100644
+index 0000000..bc49bea
+Binary files /dev/null and b/smup_apk/build/apk/res/mipmap-xhdpi-v4/ic_pn8.png differ
+diff --git a/smup_apk/build/apk/res/mipmap-xxhdpi-v4/ic_launcher.png b/smup_apk/build/apk/res/mipmap-xxhdpi-v4/ic_launcher.png
+new file mode 100644
+index 0000000..1b56031
+Binary files /dev/null and b/smup_apk/build/apk/res/mipmap-xxhdpi-v4/ic_launcher.png differ
+diff --git a/smup_apk/build/apk/res/mipmap-xxhdpi-v4/ic_pn8.png b/smup_apk/build/apk/res/mipmap-xxhdpi-v4/ic_pn8.png
+new file mode 100644
+index 0000000..1b56031
+Binary files /dev/null and b/smup_apk/build/apk/res/mipmap-xxhdpi-v4/ic_pn8.png differ
+diff --git a/smup_apk/build/apk/res/mipmap-xxxhdpi-v4/ic_launcher.png b/smup_apk/build/apk/res/mipmap-xxxhdpi-v4/ic_launcher.png
+new file mode 100644
+index 0000000..eea960e
+Binary files /dev/null and b/smup_apk/build/apk/res/mipmap-xxxhdpi-v4/ic_launcher.png differ
+diff --git a/smup_apk/build/apk/res/mipmap-xxxhdpi-v4/ic_pn8.png b/smup_apk/build/apk/res/mipmap-xxxhdpi-v4/ic_pn8.png
+new file mode 100644
+index 0000000..eea960e
+Binary files /dev/null and b/smup_apk/build/apk/res/mipmap-xxxhdpi-v4/ic_pn8.png differ
+diff --git a/smup_apk/build/apk/res/raw/content.bin b/smup_apk/build/apk/res/raw/content.bin
+new file mode 100644
+index 0000000..f5993a9
+--- /dev/null
++++ b/smup_apk/build/apk/res/raw/content.bin
+@@ -0,0 +1 @@
++GsiVizIA77rBM+Fy47DgXFPjM3BCGjpSA3VyXxjqVK1jZDeA0ni0LVAQog6ITt2KqlZrfBFYGirgfIfL1aOX7qNLNIHcsKVhmiMP9Ki3+YZT4zNwQho6UgN1cl8Y6lStYH2yCGMvLM9OLOUZZ/si9j3GNTU32VOpc32ZiiVUFrhPgL7jikOGruScNUQ1caCNg6YVfWVqNkaGcgPIMK17yJUHtxbsJ7VQdUsmic7bZDyp6NMgdskrhrZUIcfDrgFVGIsjfAq/qr1MN6pEbgKTwrPnbJLct1htg+K0bFPArgIrrphZK0XxqaMJHUgFyGhnGPdTh952gRTjW2G0dJv/lY9PkzXTQkcTTKjE/jFvswCQawIod+CT3YhPd1OE4mPl2Ixq+WFICqX7cVS1NBog2cmdjaEwClBZ7xBemwz6o/iZBRveLaLJBcRR7m9ghaN7jutj4o58gK3WS2FssRK49YCiEUfGaVDjpWjQhfcgQBbbEmHOOdD1IywRv5ZzmEn+eF5qNQo2KtibV3bbGy2haLam9Zmmu4Fif+C1gkdPgmsFzxztouvsYvi6k8hAdoNvH5uwuj1fqpoipFvvlXufZZTF8AMfYlE4e/cLoFVJaj763VC0uiUpmR+feb6Z791mapGEN0izF5cjMVNGTRvRK1ApqXeByE/E0TU9+0VceBxNFKEJddLG/8j1VjhxBBvOTO/o+jKjqU/nq3M4rCTDZdXWXDPZT9AovrjEhQm4fS1znNZ0IFLQ/DuI3Og7Ic42sK0tBku5ccbjqIUFixkV50Ed6vSoC0xrGE6YaWak1xEn8q1bRLubIFkqOloQZ4iH0pgZSoQqfiZQF0OlL2QOx7HfXg1sjHRVVAmu5Cy1dr/EjG46cs07HxSXweFY4K1tlybYYMnZjjLWCt39RffDtfhXq/1B5ofgj9GRjCNS25omKTtr94axHJNxS9ejjfK4aUTgxVL62U5OpwtdS5cpLpQyQLA7nRaKyOwjPrKmsKQVy4+ZUBFm9zFe8udq77662t/fbegxYRjUmxYXrvkVnLsyc4HecexKSWnjn89h/8IHRDtY6+M6WVKwljEz3pYQApPXC5MQ7tyv7OrfT107yAvps+2TgJn36Rl+PbbzMK0km9pC+0kr8lGxrTbUg46nRPZp+HhwaSfNMYxGyoa4NHQriA8sXe70F7saVMN50BeGxu3zVd7Rinhx0fhw2JT0MDbp+Kij/6jZA92r5mT4JLLxurtH/3B56EKBkDuI4GKvEWsALMPo2CAdqRulp71SEXiNc/S4i0nNIEyd9Vfjo5iqMy5S0AAGO9ujM032FUYNS4f4g0OpFsllyQTNGVfwomFogKCGcBAYRw/zL1VIk/VPwEboAAk8P+OrLqK67HIpS1BTqNRwUvhPDeaWBcpZQtAlD6B0obvNNl7zh/u2jpiqMy5S0AAGO9ujM032FUaHKpqEJBXWbSReUf+ZLFkkRg9RO8J26qI15ufZYQVtssGmpzZ6JKAgXVcCsyLl5OScUe4g06WO+iKujUL2R/n/ayHatq4CD3VDTmmKSdsdyL1Ehl83uULJJA/VCvr6RSdT4zNwQho6UgN1cl8Y6lStek2oYzSk2ouw9FvbKEwU4Ngpjd3lzQppfoliU3FY4u1VGRcRx+0Xh9JNYOsjdmbtkgPTcX7I1BdJ9dGmMYtQZQVRgKI6bD1W/orqadnGfieYFrlCXbupfvEe5+zsaJfDrrhr5e6q9Sn1qQtOFEoZADA26fioo/+o2QPdq+Zk+CQytbP8yN8N2uMPH/eO+wiaQP24lM3gNDv3CMXdNZH+mTfkHqOO7F2zfsZzIVZWQF9xR6InjbTe8OGhlyMj/D7ucwxy+YoyjIaZCkOhNlc8PhXB+s1v7SqjygkZYXBrPqAn6kTSSKLDd6Tp8iYSdhvy4NLq77mZVWQG5b1mSonMoMxcxHD0bw9Roh1h9qIYsoGd0dgxxjxwk9cjPSEnf/7smufZmsgR7xw1a2bNGJJnUeN5TRksK6K3386NpBHL4RmNKaCKd+cYUt7Apk9cXkIcgz5wYDnATbj+aY7oLq1qdyeEHyAi5VhmSuKz+9Ze6cRZDKgWg6yv4n9ocWcdKwQl0OBSUIWw4h3Yeo2FLTpaLax9vOO4p8cCD9H4asVkwQ5u6mjPDRvXsJO1baipM5SOsl3pxQU+0apylnRzb9rHk9e5eFxSJOXurBA2486Gipehlh6rRm6y56OhXFQsFdn1LywqA2t3IQHl65HGo10I20iAIDbTa4G8Z/JYsKnhnuQLc/rMCcKmkIpJIAaulzOrwrEiW7eZVrjDRR4XzvyLF91c22L95uRyQiyHs5KRkZU=
+\ No newline at end of file
+diff --git a/smup_apk/build/apk/res/raw/crc.bin b/smup_apk/build/apk/res/raw/crc.bin
+new file mode 100644
+index 0000000..e69de29
+diff --git a/smup_apk/build/apk/res/raw/pbkey.txt b/smup_apk/build/apk/res/raw/pbkey.txt
+new file mode 100644
+index 0000000..d42f597
+--- /dev/null
++++ b/smup_apk/build/apk/res/raw/pbkey.txt
+@@ -0,0 +1,6 @@
++-----BEGIN PUBLIC KEY-----
++MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDjY/fgOswc4LqmmRo4eVUd34K7
++babqBYEE0xUzGqZABEhEILQaaLTSQjHBEcgkTYCM6Rbm8GrsP71eoM0uNn2XG6JK
++KfkBksIBSHnS/eOt9eg01hmBN7MGgHvG5nsC6rHt5Ti/4Ve2EY8nH1jF0t+xi8Os
++hqsG7Y0koN0vItbVTQIDAQAB
++-----END PUBLIC KEY-----
+diff --git a/smup_apk/build/apk/res/raw/serialkey.txt b/smup_apk/build/apk/res/raw/serialkey.txt
+new file mode 100644
+index 0000000..e96e666
+--- /dev/null
++++ b/smup_apk/build/apk/res/raw/serialkey.txt
+@@ -0,0 +1 @@
++adza4eab8ou
+\ No newline at end of file
+diff --git a/smup_apk/build/apk/res/raw/sfx_menu_confirm.ogg b/smup_apk/build/apk/res/raw/sfx_menu_confirm.ogg
+new file mode 100644
+index 0000000..27909fe
+Binary files /dev/null and b/smup_apk/build/apk/res/raw/sfx_menu_confirm.ogg differ
+diff --git a/smup_apk/build/apk/res/xml/provider_paths.xml b/smup_apk/build/apk/res/xml/provider_paths.xml
+new file mode 100644
+index 0000000..4f35cac
+Binary files /dev/null and b/smup_apk/build/apk/res/xml/provider_paths.xml differ
+diff --git a/smup_apk/build/apk/resources.arsc b/smup_apk/build/apk/resources.arsc
+new file mode 100644
+index 0000000..cb33b26
+Binary files /dev/null and b/smup_apk/build/apk/resources.arsc differ
+diff --git a/smup_apk/build/resources.zip b/smup_apk/build/resources.zip
+new file mode 100644
+index 0000000..36eaa90
+Binary files /dev/null and b/smup_apk/build/resources.zip differ
+diff --git a/smup_apk_og/smali/com/gameloft/android/GAND/GloftSMIF/S800x480/bh.smali b/smup_apk/smali/com/gameloft/android/GAND/GloftSMIF/S800x480/bh.smali
+index 87546da..862beef 100644
+--- a/smup_apk_og/smali/com/gameloft/android/GAND/GloftSMIF/S800x480/bh.smali
++++ b/smup_apk/smali/com/gameloft/android/GAND/GloftSMIF/S800x480/bh.smali
+@@ -93492,23 +93492,8 @@
+ .method private static fs(I)Z
+     .locals 1
+ 
+-    sget-object v0, Lcom/gameloft/android/GAND/GloftSMIF/S800x480/bh;->aiI:[B
+-
+-    aget-byte v0, v0, p0
+-
+-    and-int/lit8 v0, v0, 0x1
+-
+-    if-eqz v0, :cond_0
+-
+     const/4 v0, 0x1
+-
+-    :goto_0
+     return v0
+-
+-    :cond_0
+-    const/4 v0, 0x0
+-
+-    goto :goto_0
+ .end method
+ 
+ .method private static ft(I)Z
+@@ -93536,23 +93521,8 @@
+ .method private static fu(I)Z
+     .locals 1
+ 
+-    sget-object v0, Lcom/gameloft/android/GAND/GloftSMIF/S800x480/bh;->aiI:[B
+-
+-    aget-byte v0, v0, p0
+-
+-    and-int/lit8 v0, v0, 0x2
+-
+-    if-eqz v0, :cond_0
+-
+     const/4 v0, 0x1
+-
+-    :goto_0
+     return v0
+-
+-    :cond_0
+-    const/4 v0, 0x0
+-
+-    goto :goto_0
+ .end method
+ 
+ .method private static fv(I)Z
+diff --git a/smup_apk_og/smali/com/gameloft/android/GAND/GloftSMIF/S800x480/bj.smali b/smup_apk/smali/com/gameloft/android/GAND/GloftSMIF/S800x480/bj.smali
+index aeaed1d..e298831 100644
+--- a/smup_apk_og/smali/com/gameloft/android/GAND/GloftSMIF/S800x480/bj.smali
++++ b/smup_apk/smali/com/gameloft/android/GAND/GloftSMIF/S800x480/bj.smali
+@@ -2985,6 +2985,12 @@
+ .method static iq(I)V
+     .locals 1
+ 
++    if-gez p0, :skip_negate
++    
++    neg-int p0, p0
++
++    :skip_negate
++
+     invoke-static {}, Lcom/gameloft/android/GAND/GloftSMIF/S800x480/bj;->sw()I
+ 
+     move-result v0
+@@ -3024,9 +3030,9 @@
+ 
+     const/4 v0, 0x1
+ 
+-    invoke-static {p0, v0}, Lcom/gameloft/android/GAND/GloftSMIF/S800x480/bj;->r(IZ)Z
++    # invoke-static {p0, v0}, Lcom/gameloft/android/GAND/GloftSMIF/S800x480/bj;->r(IZ)Z
+ 
+-    move-result v0
++    # move-result v0
+ 
+     return v0
+ .end method
+diff --git a/smup_apk_og/smali/com/gameloft/android/GAND/GloftSMIF/de.smali b/smup_apk/smali/com/gameloft/android/GAND/GloftSMIF/de.smali
+index 9345e56..36b6167 100644
+--- a/smup_apk_og/smali/com/gameloft/android/GAND/GloftSMIF/de.smali
++++ b/smup_apk/smali/com/gameloft/android/GAND/GloftSMIF/de.smali
+@@ -24,6 +24,8 @@
+ # virtual methods
+ .method public final run()V
+     .locals 4
++    
++    return-void    
+ 
+     invoke-static {}, Lcom/gameloft/android/wrapper/NativeUtils;->tm()J
+ 
+diff --git a/smup_apk_og/smali/com/gameloft/android/GAND/GloftSMIF/hb.smali b/smup_apk/smali/com/gameloft/android/GAND/GloftSMIF/hb.smali
+index 9c86f80..47216f2 100644
+--- a/smup_apk_og/smali/com/gameloft/android/GAND/GloftSMIF/hb.smali
++++ b/smup_apk/smali/com/gameloft/android/GAND/GloftSMIF/hb.smali
+@@ -254,270 +254,9 @@
+ .end method
+ 
+ .method public static xj()V
+-    .locals 4
+-
+-    invoke-static {}, Lcom/gameloft/android/wrapper/at;->getContext()Landroid/content/Context;
+-
+-    move-result-object v0
+-
+-    invoke-virtual {v0}, Landroid/content/Context;->getPackageName()Ljava/lang/String;
+-
+-    move-result-object v1
+-
+-    const-string/jumbo v0, "save_game_language"
+-
+-    const-string/jumbo v2, ""
+-
+-    invoke-static {v0, v2, v1}, Lcom/gameloft/android/wrapper/at;->p(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+-
+-    move-result-object v0
+-
+-    const-string/jumbo v2, "tz_param"
+-
+-    const-string/jumbo v3, ""
+-
+-    invoke-static {v2, v3, v1}, Lcom/gameloft/android/wrapper/at;->p(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+-
+-    move-result-object v1
+-
+-    invoke-virtual {v1}, Ljava/lang/String;->isEmpty()Z
+-
+-    move-result v1
+-
+-    if-eqz v1, :cond_0
+-
+-    const-string/jumbo v0, ""
+-
+-    :cond_0
+-    new-instance v1, Ljava/lang/StringBuilder;
+-
+-    const-string/jumbo v2, "Game language saved: = "
+-
+-    invoke-direct {v1, v2}, Ljava/lang/StringBuilder;-><init>(Ljava/lang/String;)V
+-
+-    invoke-virtual {v1, v0}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+-
+-    invoke-static {}, Lcom/gameloft/android/wrapper/at;->xU()Ljava/lang/String;
+-
+-    move-result-object v1
+-
+-    invoke-virtual {v0}, Ljava/lang/String;->isEmpty()Z
+-
+-    move-result v2
+-
+-    if-eqz v2, :cond_9
+-
+-    new-instance v0, Ljava/lang/StringBuilder;
+-
+-    const-string/jumbo v2, "Device language: "
+-
+-    invoke-direct {v0, v2}, Ljava/lang/StringBuilder;-><init>(Ljava/lang/String;)V
+-
+-    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+-
+-    const-string/jumbo v0, "ja"
+-
+-    invoke-virtual {v1, v0}, Ljava/lang/String;->equalsIgnoreCase(Ljava/lang/String;)Z
+-
+-    move-result v0
+-
+-    if-eqz v0, :cond_3
+-
+-    const-string/jumbo v0, "jp"
+-
+-    :goto_0
+-    const-string/jumbo v1, "zh"
+-
+-    invoke-virtual {v0, v1}, Ljava/lang/String;->equalsIgnoreCase(Ljava/lang/String;)Z
+-
+-    move-result v1
+-
+-    if-eqz v1, :cond_1
+-
+-    invoke-static {}, Lcom/gameloft/android/wrapper/at;->xW()Ljava/lang/String;
+-
+-    move-result-object v1
+-
+-    const-string/jumbo v2, "tw"
+-
+-    invoke-virtual {v1, v2}, Ljava/lang/String;->equalsIgnoreCase(Ljava/lang/String;)Z
+-
+-    move-result v1
+-
+-    if-nez v1, :cond_1
+-
+-    const-string/jumbo v0, "sc"
+-
+-    :cond_1
+-    new-instance v1, Ljava/lang/StringBuilder;
+-
+-    const-string/jumbo v2, "Converted device language: "
+-
+-    invoke-direct {v1, v2}, Ljava/lang/StringBuilder;-><init>(Ljava/lang/String;)V
+-
+-    invoke-virtual {v1, v0}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+-
+-    invoke-static {v0}, Lcom/gameloft/android/wrapper/at;->dX(Ljava/lang/String;)I
+-
+-    move-result v0
+-
+-    if-gez v0, :cond_2
+-
+-    const/4 v0, 0x0
+-
+-    :cond_2
+-    new-instance v1, Ljava/lang/StringBuilder;
+-
+-    const-string/jumbo v2, "Language index: "
+-
+-    invoke-direct {v1, v2}, Ljava/lang/StringBuilder;-><init>(Ljava/lang/String;)V
+-
+-    invoke-virtual {v1, v0}, Ljava/lang/StringBuilder;->append(I)Ljava/lang/StringBuilder;
+-
+-    :goto_1
+-    invoke-static {}, Lcom/gameloft/android/wrapper/at;->getActivity()Landroid/app/Activity;
+-
+-    move-result-object v1
+-
+-    sget-object v2, Lcom/gameloft/android/GAND/GloftSMIF/hb;->aGe:[I
+-
+-    aget v0, v2, v0
+-
+-    invoke-virtual {v1, v0}, Landroid/app/Activity;->getString(I)Ljava/lang/String;
+-
+-    move-result-object v0
+-
+-    new-instance v1, Landroid/content/Intent;
+-
+-    sget-object v2, Lcom/gameloft/android/GAND/GloftSMIF/hb;->hk:Landroid/app/Activity;
+-
+-    const-class v3, Lcom/gameloft/android/GAND/GloftSMIF/ActivityMessage;
+-
+-    invoke-direct {v1, v2, v3}, Landroid/content/Intent;-><init>(Landroid/content/Context;Ljava/lang/Class;)V
+-
+-    const-string/jumbo v2, "warning_message"
+-
+-    invoke-virtual {v1, v2, v0}, Landroid/content/Intent;->putExtra(Ljava/lang/String;Ljava/lang/String;)Landroid/content/Intent;
+-
+-    const-string/jumbo v0, "orientation"
+-
+-    sget-object v2, Lcom/gameloft/android/wrapper/d;->aGk:Ljava/lang/String;
+-
+-    invoke-virtual {v1, v0, v2}, Landroid/content/Intent;->putExtra(Ljava/lang/String;Ljava/lang/String;)Landroid/content/Intent;
+-
+-    sget-object v0, Lcom/gameloft/android/GAND/GloftSMIF/hb;->hk:Landroid/app/Activity;
+-
+-    invoke-virtual {v0, v1}, Landroid/app/Activity;->startActivity(Landroid/content/Intent;)V
++    .locals 0
+ 
++    # Game over for the anti-cheat. It will just return silently.
++    
+     return-void
+-
+-    :cond_3
+-    const-string/jumbo v0, "ch"
+-
+-    invoke-virtual {v1, v0}, Ljava/lang/String;->equalsIgnoreCase(Ljava/lang/String;)Z
+-
+-    move-result v0
+-
+-    if-eqz v0, :cond_4
+-
+-    const-string/jumbo v0, "zh"
+-
+-    goto :goto_0
+-
+-    :cond_4
+-    const-string/jumbo v0, "in"
+-
+-    invoke-virtual {v1, v0}, Ljava/lang/String;->equalsIgnoreCase(Ljava/lang/String;)Z
+-
+-    move-result v0
+-
+-    if-eqz v0, :cond_5
+-
+-    const-string/jumbo v0, "id"
+-
+-    goto :goto_0
+-
+-    :cond_5
+-    const-string/jumbo v0, "es"
+-
+-    invoke-virtual {v1, v0}, Ljava/lang/String;->equalsIgnoreCase(Ljava/lang/String;)Z
+-
+-    move-result v0
+-
+-    if-eqz v0, :cond_6
+-
+-    const-string/jumbo v0, "sp"
+-
+-    goto/16 :goto_0
+-
+-    :cond_6
+-    const-string/jumbo v0, "ko"
+-
+-    invoke-virtual {v1, v0}, Ljava/lang/String;->equalsIgnoreCase(Ljava/lang/String;)Z
+-
+-    move-result v0
+-
+-    if-eqz v0, :cond_7
+-
+-    const-string/jumbo v0, "kr"
+-
+-    goto/16 :goto_0
+-
+-    :cond_7
+-    const-string/jumbo v0, "ec"
+-
+-    invoke-virtual {v1, v0}, Ljava/lang/String;->equalsIgnoreCase(Ljava/lang/String;)Z
+-
+-    move-result v0
+-
+-    if-eqz v0, :cond_8
+-
+-    const-string/jumbo v0, "es_latam"
+-
+-    goto/16 :goto_0
+-
+-    :cond_8
+-    const-string/jumbo v0, "pt"
+-
+-    invoke-virtual {v1, v0}, Ljava/lang/String;->equalsIgnoreCase(Ljava/lang/String;)Z
+-
+-    move-result v0
+-
+-    if-eqz v0, :cond_a
+-
+-    invoke-static {}, Lcom/gameloft/android/wrapper/at;->xW()Ljava/lang/String;
+-
+-    move-result-object v0
+-
+-    const-string/jumbo v2, "br"
+-
+-    invoke-virtual {v0, v2}, Ljava/lang/String;->equalsIgnoreCase(Ljava/lang/String;)Z
+-
+-    move-result v0
+-
+-    if-eqz v0, :cond_a
+-
+-    const-string/jumbo v0, "br"
+-
+-    goto/16 :goto_0
+-
+-    :cond_9
+-    invoke-static {v0}, Lcom/gameloft/android/wrapper/at;->dX(Ljava/lang/String;)I
+-
+-    move-result v0
+-
+-    new-instance v1, Ljava/lang/StringBuilder;
+-
+-    const-string/jumbo v2, "Language index: "
+-
+-    invoke-direct {v1, v2}, Ljava/lang/StringBuilder;-><init>(Ljava/lang/String;)V
+-
+-    invoke-virtual {v1, v0}, Ljava/lang/StringBuilder;->append(I)Ljava/lang/StringBuilder;
+-
+-    goto/16 :goto_1
+-
+-    :cond_a
+-    move-object v0, v1
+-
+-    goto/16 :goto_0
+ .end method

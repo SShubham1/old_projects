@@ -1,0 +1,5 @@
+Fire Dragon: ipfs://bafybeibcx2hzvesubghbzl33wfzvcqwchg4spvdsady5ek3ghiqs7cbhxe
+Water Dragon: ipfs://bafybeieaa2edgbp2q4khnir25gnbitqxaex62yhscedzr7zjgqlprnwe6i
+Air Dragon: ipfs://bafybeifhx6q233jcvcdel7quz7ahuuqp3n22zbdsffk5c2xvukvn77477e
+Land Dragon: ipfs://bafybeihrdgsa4t6diyhjynyuu7yb7vvnh6e3qgqkxyxbdv6zkfaxxtxfkm
+Electric Dragon: ipfs://bafybeiawletsfv7kfilki7xczutgaqrqwb5oyda7cm572rnova4spye7ai

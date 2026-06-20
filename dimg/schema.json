@@ -1,0 +1,28 @@
+{
+	"type_id": {
+		"type": "number",
+		"description": "Item Type ID"
+	},
+	"name": {
+		"type": "string",
+		"description": "Name of item"
+	},
+    "dob": {
+        "type": "string",
+        "description": "Date of birth (mint date)"
+    },
+    "image_url": {
+        "type": "string",
+        "description": "Image URL"
+    },
+    "level": {
+        "type": "number",
+        "description": "Level Number",
+        "default": 1
+    },
+    "xp": {
+        "type": "number",
+        "description": "XP Number",	
+        "default": 0
+    }
+}

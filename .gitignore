@@ -1,0 +1,8 @@
+*.so
+*.exe
+__pycache__
+.*~
+*.o
+*.apk
+.*.png
+*.tmp

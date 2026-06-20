@@ -1,0 +1,990 @@
+[
+    {
+        "id": "2",
+        "type": "expression",
+        "latex": "a=-2",
+        "color": "#2d70b3",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": true,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "3",
+        "type": "expression",
+        "latex": "b=1.1",
+        "color": "#388c46",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": true,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "5",
+        "type": "expression",
+        "latex": "w=7.9",
+        "color": "#000000",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": true,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "sliderBounds": {
+            "min": "0",
+            "max": "20"
+        },
+        "playing": false
+    },
+    {
+        "id": "6",
+        "type": "expression",
+        "latex": "h=4.7",
+        "color": "#c74440",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": true,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "sliderBounds": {
+            "min": "0",
+            "max": "20"
+        },
+        "playing": false
+    },
+    {
+        "id": "1",
+        "type": "expression",
+        "latex": "\\left(a,b\\right)",
+        "color": "#c74440",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": false,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "4",
+        "type": "expression",
+        "latex": "\\left(a+w,b+h\\right)",
+        "color": "#6042a6",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": false,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "7",
+        "type": "expression",
+        "latex": "\\left(a,b+h\\right)",
+        "color": "#2d70b3",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": false,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "8",
+        "type": "expression",
+        "latex": "\\left(a+w,b\\right)",
+        "color": "#388c46",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": false,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "9",
+        "type": "expression",
+        "latex": "a\\le x\\ \\le\\ a+w\\left\\{b\\le y\\le b+h\\right\\}",
+        "color": "#6042a6",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": false,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "10",
+        "type": "expression",
+        "latex": "\\left(n,m\\right)",
+        "color": "#000000",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": false,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "11",
+        "type": "expression",
+        "latex": "n=8.3",
+        "color": "#c74440",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": true,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "12",
+        "type": "expression",
+        "latex": "m=-1.36",
+        "color": "#2d70b3",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": true,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "13",
+        "type": "expression",
+        "latex": "\\left(x-n\\right)^{2}+\\left(y-m\\right)^{2}\\le r^{2}",
+        "color": "#388c46",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": false,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "15",
+        "type": "expression",
+        "latex": "r=4.66",
+        "color": "#000000",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": true,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "16",
+        "type": "expression",
+        "latex": "\\left(x-n\\right)^{2}+\\left(y-m\\right)^{2}\\le r^{2}\\left\\{a\\le x\\ \\le\\ a+w\\left\\{b\\le y\\le b+h\\right\\}\\right\\}",
+        "color": "#c74440",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": false,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "17",
+        "type": "expression",
+        "latex": "\\left|\\left(a-n\\right)^{2}+\\left(b-m\\right)^{2}-\\left(\\left(a-n\\right)^{2}+\\left(b+h-m\\right)^{2}\\right)\\right|-h^{2}",
+        "color": "#2d70b3",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": false,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "18",
+        "type": "expression",
+        "latex": "\\left|\\left(a-r-n\\right)^{2}+\\left(b-r-m\\right)^{2}-\\left(\\left(a-r+w-n\\right)^{2}+\\left(b-r-m\\right)^{2}\\right)\\right|-w^{2}",
+        "color": "#388c46",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": false,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "20",
+        "type": "expression",
+        "latex": "h^{2}",
+        "color": "#000000",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": false,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "21",
+        "type": "expression",
+        "latex": "w^{2}",
+        "color": "#c74440",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": false,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "28",
+        "type": "expression",
+        "latex": "\\left|\\left(a-x\\right)^{2}+\\left(b-y\\right)^{2}-\\left(\\left(a-x\\right)^{2}+\\left(b+h-y\\right)^{2}\\right)\\right|-\\left(h\\right)^{2}-2hr\\le0",
+        "color": "#388c46",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": true,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "35",
+        "type": "expression",
+        "latex": "\\left|\\left(a-x\\right)^{2}+\\left(b-y\\right)^{2}-\\left(\\left(a+w-x\\right)^{2}+\\left(b-y\\right)^{2}\\right)\\right|-\\left(w\\right)^{2}-2wr\\le0",
+        "color": "#000000",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": true,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "36",
+        "type": "expression",
+        "latex": "\\left|\\left(a-x\\right)^{2}+\\left(b-y\\right)^{2}-\\left(\\left(a-x\\right)^{2}+\\left(b+h-y\\right)^{2}\\right)\\right|-h^{2}\\le0",
+        "color": "#c74440",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": true,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "37",
+        "type": "expression",
+        "latex": "\\left(a-n\\right)^{2}+\\left(b-m\\right)^{2}-r^{2}",
+        "color": "#2d70b3",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": false,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "38",
+        "type": "expression",
+        "latex": "a-n",
+        "color": "#388c46",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": true,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "40",
+        "type": "expression",
+        "latex": "b-m",
+        "color": "#000000",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": false,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "42",
+        "type": "expression",
+        "latex": "n-\\left(a+w\\right)",
+        "color": "#2d70b3",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": false,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "43",
+        "type": "expression",
+        "latex": "m-\\left(b+h\\right)",
+        "color": "#388c46",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": false,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    },
+    {
+        "id": "45",
+        "type": "expression",
+        "latex": "a\\le x\\ \\left\\{x\\le\\ a+w\\right\\}\\left\\{b\\le y\\right\\}\\left\\{y\\le b+h\\right\\}",
+        "color": "#000000",
+        "lineStyle": "SOLID",
+        "lineWidth": "",
+        "lineOpacity": "",
+        "pointStyle": "POINT",
+        "pointSize": "",
+        "pointOpacity": "",
+        "fillOpacity": "",
+        "hidden": true,
+        "secret": false,
+        "dragMode": "AUTO",
+        "label": "",
+        "showLabel": false,
+        "labelSize": "",
+        "labelOrientation": "default",
+        "interactiveLabel": false,
+        "readonly": false,
+        "parametricDomain": {
+            "min": "",
+            "max": ""
+        },
+        "polarDomain": {
+            "min": "",
+            "max": ""
+        },
+        "domain": {
+            "min": "0",
+            "max": "1"
+        },
+        "playing": false
+    }
+]
